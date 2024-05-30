@@ -1,0 +1,16 @@
+{
+    "audiocaps": "./data/dataset/audioset",
+    "comments":{
+    },
+
+    "metadata":{
+        "path": {
+            "audiocaps":{
+                "train": "C:\\Users\\wise-temp-1\\AudioLDM-training-finetuning\\data\\dataset\\metadata\\custom\\custom_train_label.json",
+                "test": "C:\\Users\\wise-temp-1\\AudioLDM-training-finetuning\\data\\dataset\\metadata\\custom\\custom_train_label.json",
+                "val": "C:\\Users\\wise-temp-1\\AudioLDM-training-finetuning\\data\\dataset\\metadata\\custom\\custom_train_label.json",
+                "class_label_indices": "./data/dataset/metadata/audiocaps/class_labels_indices.csv"
+            }
+        }
+    }
+}

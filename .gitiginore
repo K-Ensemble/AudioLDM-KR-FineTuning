@@ -1,0 +1,6 @@
+/train/log/
+/data/checkpoints/
+/data/dataset/audioset
+/data/dataset/metadata/audiocaps
+__pycache__/
+.idea
